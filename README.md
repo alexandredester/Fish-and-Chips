@@ -1,7 +1,7 @@
 # Fish-and-Chips
 # langage utiliser :
-- HTML 
-- CSS
+- html
+- css
 
  # FONCTIONEMENT DE L'APPLICATION : 
  - Site de frite et de poisson
